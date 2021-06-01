@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am Tushar Roy Chowdhury. 
+As a programmer I always like to solve complex problems & RND. I love to share knowledge among the programmer & write blog within every 4 weeks about my learning. 
+
+Get In Touch:
+
 
 <!--
 **TusharRoy23/TusharRoy23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
