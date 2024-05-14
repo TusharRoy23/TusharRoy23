@@ -1,8 +1,33 @@
 ### Hi there 👋
 I am Tushar Roy Chowdhury. 
-As a programmer I always like to solve complex problems & RND. I love to share knowledge among the programmer & write blog within every 4 weeks about my learning. 
 
-Get In Touch:
+A passionate software engineer who specializes in Python, Django, JavaScript, Kubernetes, and PostgreSQL. I'm constantly learning new technologies and striving to improve my skills.
+
+- 🔭 I’m currently working on a Saas project
+- 🌱 I’m currently learning: Kubernetes clustering
+- 💬 Ask me about: Python, Django, JavaScript, Kubernetes, PostgreSQL
+- 📫 How to reach me: chowdhurytusharroy@gmail.com
+
+## GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TusharRoy23&show_icons=true&theme=radical)](https://github.com/TusharRoy23)
+
+## Stack Overflow
+
+[![Stack Overflow](https://stackoverflow-badge.vercel.app/?userID=6784741)](https://stackoverflow.com/users/6784741/tushar-roy)
+
+## Skills
+
+- **Languages**: Python, JavaScript
+- **Frameworks**: Django, Angular, Vuejs
+- **DevOps**: Kubernetes, Docker, Nginx
+- **Databases**: PostgreSQL, MySQL
+
+## Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tushar-roy-chy)
+- [![Medium](https://img.shields.io/badge/Medium-Tushar-blue?style=flat&logo=medium)](https://tushar-chy.medium.com/)
+
 
 
 <!--
