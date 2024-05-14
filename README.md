@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Tushar Roy Chowdhury. 
 
-A passionate software engineer who specializes in Python, Django, JavaScript, Kubernetes, and PostgreSQL. I'm constantly learning new technologies and striving to improve my skills.
+A passionate programmer who specializes in Python, Django, JavaScript, Kubernetes, and PostgreSQL. I'm constantly learning new technologies and striving to improve my skills.
 
 - 🔭 I’m currently working on a Saas project
 - 🌱 I’m currently learning: Kubernetes clustering
