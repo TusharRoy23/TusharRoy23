@@ -19,7 +19,7 @@ A passionate programmer who specializes in Python, Django, JavaScript, Kubernete
 ## Skills
 
 - **Languages**: Python, JavaScript
-- **Frameworks**: Django Rest Framework (DRF), Angular, React, NextJs, Vuejs
+- **Frameworks**: Django Rest Framework (DRF), Angular, React, NextJs, Vuejs, Nuxt
 - **DevOps**: Kubernetes, Docker, Nginx
 - **Databases**: PostgreSQL, MySQL
 
