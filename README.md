@@ -5,7 +5,7 @@ A passionate programmer who specializes in Python, Django, JavaScript, Kubernete
 
 - 🔭 I’m currently working on a Saas project
 - 🌱 I’m currently learning: AWS infrastructure & Kubernetes clustering
-- 💬 Ask me about: Python, Django, JavaScript, React, Kubernetes, PostgreSQL
+- 💬 Ask me about: Python, Django, JavaScript, Angular, React, Kubernetes, PostgreSQL
 - 📫 How to reach me: chowdhurytusharroy@gmail.com
 
 ## GitHub Stats
