@@ -3,7 +3,7 @@ I am Tushar Roy Chowdhury.
 
 A passionate programmer who specializes in Python, Django, JavaScript, Kubernetes, and PostgreSQL. I'm constantly learning new technologies and striving to improve my skills.
 
-- 🔭 I’m currently working on an EDU project using DeepSeek API integration.
+- 🔭 I’m working on an EDU project using DeepSeek API integration & React (NextJS).
 - 🌱 I’m currently learning: AWS infrastructure & Kubernetes clustering
 - 💬 Ask me about: JavaScript, TypeScript, Angular, Vue.js, React, Python, Django, Kubernetes, PostgreSQL, Frontend System Design
 - 📫 How to reach me: chowdhurytusharroy@gmail.com
