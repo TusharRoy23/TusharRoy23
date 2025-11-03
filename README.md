@@ -19,9 +19,9 @@ A passionate programmer who specializes in JavaScript, TypeScript, Angular, Reac
 ## Skills
 
 - **Languages**: Python, JavaScript
-- **Frameworks**: Django Rest Framework (DRF), Angular, React, NextJs, Vuejs, Nuxt
+- **Frameworks**: Express.js, LangChain, LangGraph, React, Angular,  NextJs, Vuejs, Nuxt, Django Rest Framework (DRF)
 - **DevOps**: Kubernetes, Docker, Nginx, AWS
-- **Databases**: PostgreSQL, MySQL
+- **Databases**: PostgreSQL, MySQL, Supabase
 
 ## Connect with Me
 
