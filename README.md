@@ -12,10 +12,6 @@ A passionate programmer who specializes in JavaScript, TypeScript, Angular, Reac
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TusharRoy23&show_icons=true&theme=radical)](https://github.com/TusharRoy23)
 
-## Stack Overflow
-
-[![Stack Overflow](https://stackoverflow-badge.vercel.app/?userID=6784741)](https://stackoverflow.com/users/6784741/tushar-roy)
-
 ## Skills
 
 - **Languages**: Python, JavaScript
