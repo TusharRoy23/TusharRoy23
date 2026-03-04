@@ -3,7 +3,7 @@ I am Tushar Roy Chowdhury.
 
 A passionate programmer who specializes in JavaScript, TypeScript, Angular, React, Vue, Python, Django, Kubernetes, and PostgreSQL. I'm constantly learning new technologies and striving to improve my skills.
 
-- 🔭 I’m working on an EDU project using LLM integration, Agentic workflow, Express, TypeScript & React (NextJS).
+- 🔭 I’m working on an EDU project using LLM integration, Agentic workflow, Python, Django REST Framework, TypeScript & React (NextJS).
 - 🌱 I’m currently learning: GenAI & Agentic workflow by implementing in the real-life projects
 - 💬 Ask me about: JavaScript, TypeScript, Angular, Vue.js, React, Agentic workflow, Python, Django, Kubernetes, PostgreSQL, Frontend System Design
 - 📫 How to reach me: chowdhurytusharroy@gmail.com
